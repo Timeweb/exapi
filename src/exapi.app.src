@@ -1,6 +1,6 @@
 {application, exapi,
  [
-  {description, ""},
+  {description, "Erlang wrapper for xenserver api"},
   {vsn, "1.0.0"},
   {registered, []},
   {applications, []},
