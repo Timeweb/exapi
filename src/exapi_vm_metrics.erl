@@ -1,6 +1,6 @@
 -module(exapi_vm_metrics).
 
--include("exapi.hrl").
+-include_lib("exapi/include/exapi.hrl").
 
 -export([get_record/2]).
 
